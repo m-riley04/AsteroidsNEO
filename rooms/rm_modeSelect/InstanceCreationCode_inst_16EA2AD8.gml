@@ -1,0 +1,1 @@
+choices = [["Endless", modeEndless], ["Invasion", modeInvasion]]

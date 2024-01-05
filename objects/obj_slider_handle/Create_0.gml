@@ -1,0 +1,1 @@
+slider = instance_nearest(x, y, obj_slider)

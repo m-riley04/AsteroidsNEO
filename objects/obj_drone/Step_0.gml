@@ -1,0 +1,1 @@
+move_wrap(room_width, room_height, sprite_width/2)

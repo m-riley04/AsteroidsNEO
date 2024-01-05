@@ -1,0 +1,1 @@
+choices = [["Play", selectionPlay], ["Multiplayer", selectionMultiplayer], ["Cosmetics", selectionCosmetics], ["Settings", selectionSettings], ["Quit", selectionQuit]]
