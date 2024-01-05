@@ -2,6 +2,9 @@
   "resourceType": "GMWindowsOptions",
   "resourceVersion": "1.1",
   "name": "Windows",
+  "ConfigValues": {
+    "Dev": {"option_windows_save_location":"1","option_windows_description_info":"A new spin on an old classic.","option_windows_product_info":"","option_windows_company_info":"Restless Medicine Studios","option_windows_version":"0.1.0.0","option_windows_display_name":"AsteroidsNEO","option_windows_use_splash":"true","option_windows_splash_screen":"splash/splash.png","option_windows_icon":"icons/icon.ico","option_windows_installer_finished":"installer/finished.bmp","option_windows_installer_header":"installer/header.bmp",},
+  },
   "option_windows_display_name": "Created with GameMaker",
   "option_windows_executable_name": "${project_name}.exe",
   "option_windows_version": "1.0.0.0",
