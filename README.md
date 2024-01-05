@@ -21,6 +21,7 @@ The classic Asteroids experience, in HD! Accurate movement, hitboxes, point valu
 A new way to experience Asteroids while keeping the same, classic feel. The same features as Classic mode, but with the addition of powerups, bosses, and new, more interesting waves and features.
 
 ## Powerups
+<img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/gameplayex3.JPG" alt="logo banner" width="500"/>
 - Multi-shot
     - "3 times the pellets!"
     - Fires 3 pellets instead of 1
@@ -53,11 +54,15 @@ A new way to experience Asteroids while keeping the same, classic feel. The same
     - Gives you an extra life/ship
 
 ## Bosses
+
 - Mothership
+<img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/mothership.JPG" alt="logo banner" width="400"/>
     - Much bigger than your average saucer
     - Lots of health and a healthbar
     - Better weapons than her children
     - Spawns smaller saucers to do her bidding
+
+
 
 ## Other
 - Mouse-less support (arrow keys)
