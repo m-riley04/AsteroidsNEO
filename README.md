@@ -21,7 +21,7 @@ The classic Asteroids experience, in HD! Accurate movement, hitboxes, point valu
 A new way to experience Asteroids while keeping the same, classic feel. The same features as Classic mode, but with the addition of powerups, bosses, and new, more interesting waves and features.
 
 ## Powerups
-<img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/powerupblank.png" alt="logo banner" width="200"/>
+<img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/powerupblank.png" alt="logo banner" width="100"/>
 
 - Multi-shot
     - "3 times the pellets!"
@@ -70,11 +70,6 @@ A new way to experience Asteroids while keeping the same, classic feel. The same
     - Complete post-processing customization
 - Lil cute easter eggs
 
-<img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/gameplayex3.JPG" alt="logo banner" width="500"/>
-<img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/gameplayex1.JPG" alt="logo banner" width="500"/>
-<img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/gameplayex2.JPG" alt="logo banner" width="500"/>
-<img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/deathex.JPG" alt="logo banner" width="500"/>
-
 # Planned Features
 - Custom music and sound effects
 - Custom keybinding
@@ -92,6 +87,12 @@ A new way to experience Asteroids while keeping the same, classic feel. The same
 - More gamemodes
     - Invasion
     - Ammo Shortage
+
+ # Development Screenshots
+<img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/gameplayex3.JPG" alt="logo banner" width="500"/>
+<img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/gameplayex1.JPG" alt="logo banner" width="500"/>
+<img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/gameplayex2.JPG" alt="logo banner" width="500"/>
+<img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/deathex.JPG" alt="logo banner" width="500"/>
 
 # Installation
 1. Find the latest release from the GitHub's "Releases"
