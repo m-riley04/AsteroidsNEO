@@ -3,6 +3,8 @@
 # AsteroidsNEO
 Prepare for a new spin on an old classic: AsteroidsNEO is here to fill your rock-destroying urge!
 
+<img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/mainmenu.JPG" alt="logo banner" width="500"/> 
+
 # Features
 ## Gamemodes
 ### Endless
