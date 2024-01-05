@@ -119,3 +119,7 @@ A new way to experience Asteroids while keeping the same, classic feel. The same
 2. Press "Play" on the main menu
 3. Select the game type and gamemode
 4. Press "Launch"
+
+# System Requirements
+- Windows 7+
+- MacOS (untested)
