@@ -5,12 +5,33 @@ Prepare for a new spin on an old classic. With brand new content, unique gamemod
 
 <img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/mainmenu.JPG" alt="logo banner" width="500"/> 
 
+# Table of Contents
+* [Features](#Features)
+    * [Gamemodes](#Gamemodes)
+        * [Endless](#Endless)
+        * [Invasion](#Invasion)
+    * [Game Types](#Game-Types)
+        * [Classic](#Classic)
+        * [NEO](#NEO)
+    * [Powerups](#Powerups)
+    * [Bosses](#Bosses)
+    * [Other](#Other)
+* [Planned Features](#Planned-Features)
+* [Development Screenshots](#Development-Screenshots)
+* [Installation](#Instalation)
+* [Playing](#Playing)
+    * [Controls](#Controls)
+    * [First-Time Play](#First-Time-Play)
+
 # Features
+
 ## Gamemodes
+
 ### Endless
 What you're used to! An endless barrage of asteroids to blast into bits (and points!).
 
-### Invasion (Coming soon...)
+### Invasion
+(Coming soon...)
 Saucers galore. They fight back, and they're sharp shooters. Watch out for flying cows.
 
 ## Game Types
@@ -88,7 +109,7 @@ A new way to experience Asteroids while keeping the same, classic feel. The same
     - Invasion
     - Ammo Shortage
 
- # Development Screenshots
+# Development Screenshots
 <img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/gameplayex3.JPG" alt="logo banner" width="500"/>
 <img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/gameplayex1.JPG" alt="logo banner" width="500"/>
 <img src="https://github.com/m-riley04/AsteroidsNEO/blob/main/github_assets/gameplayex2.JPG" alt="logo banner" width="500"/>
@@ -100,6 +121,7 @@ A new way to experience Asteroids while keeping the same, classic feel. The same
 3. Open and go through the installation process
 
 # Playing
+
 ## Controls
 - Menu:
     - Next Option -> Down Arrow
@@ -119,7 +141,6 @@ A new way to experience Asteroids while keeping the same, classic feel. The same
 2. Press "Play" on the main menu
 3. Select the game type and gamemode
 4. Press "Launch"
-
 # System Requirements
 - Windows 7+
 - MacOS (untested)
